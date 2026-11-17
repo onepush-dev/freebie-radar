@@ -2,7 +2,7 @@
 
 [Freebie Radar](https://github.com/ZiChuanLan/freebie-radar) (MIT) — a self-hosted freebie and deal radar: it collects 100+ (mostly Chinese-language) sources such as free games, software giveaways, coupons and AI-tool trials, de-duplicates and scores them, optionally runs an AI second-pass review with any OpenAI-compatible model, and serves a web feed, RSS, a daily digest and optional Telegram push. Deploy it on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/3dCfI5)
 
 ## What this template runs
 
